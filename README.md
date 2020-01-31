@@ -16,7 +16,7 @@ Alternatively you can use the Spring Boot Maven plugin like so:
 
 mvn spring-boot:run
 
-To test that it works, open a browser tab at http://localhost:8085/users .
+To test that it works, open a browser tab at http://localhost:8086/users .
 
 
 
